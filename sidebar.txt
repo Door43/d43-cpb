@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpb:home|Door43 (cpb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpb|d43-cpb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpb/archive/master.zip|d43-cpb.zip]]
+
+**Recent Changes**
+{{changes>ns = cpb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpb|Ethnologue data]]
+
